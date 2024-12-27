@@ -17,7 +17,7 @@ This is the official
 <sup>3</sup>Harvard
 
 This codebase contains code to train the video model in "*Grounding Video Models to Actions through Goal Conditioned Exploration*". 
-For experiments in the robotic environments, please see [video-to-action-release](https://github.com/video-to-action/video-to-action-release?tab=readme-ov-file#%EF%B8%8F-installation) repo.
+For experiments in the robotic environments, please see [video-to-action-release](https://github.com/video-to-action/video-to-action-release) repo.
 
 <!-- repo.  -->
 <!-- this [repo](https://github.com/video-to-action/video-to-action-release). -->
