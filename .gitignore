@@ -1,0 +1,12 @@
+results/**
+# examples/**
+**.pyc
+datasets/**
+!datasets/.gitkeep
+# ----------
+trash/**
+flowdiffusion/logs/**
+flowdiffusion/trash/**
+flowdiffusion/*/*.ipynb
+
+# ----------
